@@ -9,3 +9,10 @@
 .navbar .nav-link.active{
   font-weight: 600;
 }
+.card a ,.card a :hover{
+  color: black;
+  text-decoration: none;
+}
+.card a .btn-outline-dark:hover, .card a .btn-outline-dark:active{
+  color: #fff;
+}
