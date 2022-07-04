@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/eCart/static/css/main.4457c2fa.css",
-    "main.js": "/eCart/static/js/main.49e472c0.js",
+    "main.js": "/eCart/static/js/main.e4ef5a54.js",
     "static/js/787.b930dc67.chunk.js": "/eCart/static/js/787.b930dc67.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/eCart/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/eCart/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
@@ -10,11 +10,11 @@
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/eCart/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "index.html": "/eCart/index.html",
     "main.4457c2fa.css.map": "/eCart/static/css/main.4457c2fa.css.map",
-    "main.49e472c0.js.map": "/eCart/static/js/main.49e472c0.js.map",
+    "main.e4ef5a54.js.map": "/eCart/static/js/main.e4ef5a54.js.map",
     "787.b930dc67.chunk.js.map": "/eCart/static/js/787.b930dc67.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4457c2fa.css",
-    "static/js/main.49e472c0.js"
+    "static/js/main.e4ef5a54.js"
   ]
 }
